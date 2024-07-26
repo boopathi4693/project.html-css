@@ -1,0 +1,239 @@
+*{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    
+  }
+  .nav{
+    background-color: black;
+    color: white;
+    height: 12vh;
+    
+    /* position: fixed;
+    width: 100%; */
+    
+}
+ul{
+    margin-top: 10px;
+    margin-left: 55%;
+    
+}
+.nav ul li .link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover,.active{
+    border-bottom: 2px solid white;
+    }
+
+
+li{
+    padding: 10px;
+}
+li,ul,h1{
+    display: inline-block;
+
+    
+}
+h1{
+    margin-left: 40px;
+    display: inline-block;
+    margin-top: 20px;
+    font-size:25PX;
+}
+
+
+.ctext h3{
+    margin-left: 10%;
+    margin-top: 20px;
+    color:darkblue;
+}
+.ctext h2{
+    margin-top: 20px;
+    margin-left: 10%;
+    color: darkblue;
+}
+.ctext p{
+    margin-left: 10%;
+    margin-right: 50%;
+    margin-top: 50px;
+}
+.ctext img{
+    margin-right: 10%;
+}
+.ctext2{
+    margin-top: 10%;
+    margin-left: 10px;
+}
+.ctext2 img{
+    margin-left: 9%;
+    
+    outline-offset: 10px solid black;
+    
+}
+.ctext2 h3{
+    margin-right: 10%;
+    margin-top: 60px;
+    margin-left: 60px;
+    color: darkblue;
+}
+.ctext2 p{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+.ctext3 h3{
+    margin-top: 10%;
+    color: darkblue;
+}
+.box{
+    border: 2px solid black;
+    box-sizing: content-box;
+    height: 3 0%;
+    width:40%;
+    margin-top: 4%;
+    margin-left: 15%;
+    border: none;
+}
+.box h1{
+    
+    margin-left: 40%;
+    color: darkblue;
+    font-size: 50PX;
+}
+.box2{
+    border: 2px solid black;
+    box-sizing: content-box;
+    height: 30%;
+    width:30%;
+    margin-top: 4%;
+    margin-left: 60%;
+    border: none;
+}
+.box2 h1{
+    margin-left: 10%;
+    margin-top: 7%;
+    color: darkblue;
+    font-size: 50PX;
+}
+.last{
+    margin-top: 70px;
+    margin-left: 25%;
+    margin-right: 25%
+    
+}
+.our{
+    margin-top: 10%;
+}
+.our p{
+    margin-top: 3%;
+}
+.map iframe{
+    margin-top: 5%;
+}
+.las{
+    
+    background-color: black;
+    display: flex;  
+}
+.las1{
+    background-color: black;
+}
+.las1 p{
+    color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+.las1 hr{
+    line-height-step: 10px;
+}
+
+.aboutl{
+    border: 2px solid black;
+    width: 29%;
+    border: none;
+    color: antiquewhite;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.aboutl h3{
+    margin-top: 10%;
+}
+.aboutl p{
+    margin-top: 20px;
+}
+.aboutl2{
+    border: 2px solid black;
+    width: 29%;
+    border: none;
+    color: antiquewhite;
+    margin-bottom: 20px;
+    margin-left: 40px;
+}
+.aboutl2 h3{
+    margin-top: 10%;
+}
+.aboutl2 p{
+    margin-top: 20px;
+}
+.aboutl3{
+    border: 2px solid black;
+    width: 29%;
+    border: none;
+    color: antiquewhite;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    
+}
+.aboutl3 h3{
+    margin-top: 10%;
+
+}
+.aboutl3 p{
+    margin-top: 20px;
+}
+.fa-facebook-f{
+    color: antiquewhite;
+    font-size: 25px;
+
+}
+.fa-facebook-f:hover{
+    color: blue;
+}
+.aboutl3 a{
+    margin-top: 40px;
+    
+}
+.A{
+    margin-top: 20px;
+    float: left;
+}
+
+.fa-x-twitter{
+    color: whitesmoke;
+    font-size: 25px;
+
+}
+.fa-x-twitter:hover{
+    color: blue;
+}
+.B{
+    margin-top: 20px;
+    margin-left: 30PX;
+    float: left;
+}
+.C{
+    margin-top: 20px;
+    margin-left: 30px;
+    float: left;
+
+}
+.fa-instagram{
+    font-size: 25px;
+    color: white;
+}
+.fa-instagram:hover{
+    color: blue;
+}   
